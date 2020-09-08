@@ -1,0 +1,151 @@
+{
+  "main": {
+    "name": "Samuel Kow Paintsil",
+    "occupation": "Flutter developer by day & Unity Game developer by night",
+    "description": "Mobile development's breakfast & Game development's my daily bread! && The Co-Founder of CUBE Robotics Limited",
+    "image": "sami.jpg",
+    "bio": "My name is Sami, I'm the Co-Founder of CUBE Robotics Limited & a mobile && game developer. ",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "smashbros54@gmail.com",
+    "phone": "+233 501083601",
+    "address": {
+      "street": "No 9 Link Road, KNUST",
+      "city": "Kumasi",
+      "state": "Ghana"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/samikhae64",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/samuel-kow-p-200724124/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/sami_khae/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/Sami64",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Kwame Nkrumah University of Sciene & Technology",
+        "degree": "Bachelors in Computer Science",
+        "graduated": "June 2022",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "CUBE Robotics Limited",
+        "title": "Co-Founder, Roboticist && Software Developer",
+        "years": "Febuary 2019 - Present",
+        "description": "Targetting teens & building up their robotics skills in diverse ways. CUBE Robotics Limited engages the Ghanaian youth through competitions after giving them required skills through carefully developed training plan"
+      },
+      {
+        "company": "TeachGhana-STEAM",
+        "title": "Volunteer tutor",
+        "years": "May 2018 - September 2018",
+        "description": "Equipping the Ghanaian youth with Science Technology Engineering Arts & Mathematics skills (STEAM). I worked as a javascript tutor during the period I spent with TeachGhana. "
+      }
+    ],
+    "skills": [
+      {
+        "name": "Unity Game Development",
+        "level": "75%"
+      },
+      {
+        "name": "Flutter",
+        "level": "70%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "85%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MySQL",
+        "level": "90%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "unityProjects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ],
+    "reactProjects": [
+      {
+        "title": "WhatsApp Clone",
+        "category": "WhatsApp Clone built with ReactJS",
+        "image": "whatsapp-clone.png",
+        "url": "https://whatsapp-sami-clone.web.app/"
+      },
+      {
+        "title": "Slack Clone",
+        "category": "Slack Clone built with ReactJS",
+        "image": "slack-clone.png",
+        "url": "https://slack-sami.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": []
+  }
+}
