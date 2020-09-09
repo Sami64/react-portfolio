@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/83ed1416-6f1a-4882-8395-9f9d6b1b0d12/deploy-status)](https://app.netlify.com/sites/sami-portfolio-beta/deploys)
+
 # Clever Programmer ReactJS Portfolio Template      
 
 ## 👇 WATCH THIS FIRST 👇
