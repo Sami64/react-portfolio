@@ -62,10 +62,10 @@ class Portfolio extends Component {
           <div className="twelve columns collapsed">
             <h1>Check Out Some of My Works.</h1>
             <h1>Unity Cortex</h1>
-            <div>{unityProjects}</div>
-            <h1>ReactJS</h1>
-            <div>{reactProjects}</div>
-            <h1>Flutter</h1>
+            <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">{unityProjects}</div>
+            <h1>ReactJS Zone</h1>
+            <div id="portfoli-wrapper" className="bgrid-quarters s-bgrid-thirds cf">{reactProjects}</div>
+            <h1>Flutter Haven</h1>
           </div>
         </div>
       </section>

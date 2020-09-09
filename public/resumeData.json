@@ -4,7 +4,7 @@
     "occupation": "Flutter developer by day & Unity Game developer by night",
     "description": "Mobile development's breakfast & Game development's my daily bread! && The Co-Founder of CUBE Robotics Limited",
     "image": "sami.jpg",
-    "bio": "My name is Sami, I'm the Co-Founder of CUBE Robotics Limited & a mobile && game developer. ",
+    "bio": "My name is Samuel, I'm the Co-Founder of CUBE Robotics Limited, a mobile && game developer. I'm an extreme robotics enthusiast, love playing basketball, listening to music and of course messing around with games!!. ",
     "contactmessage": "Get in touch with me to receive further details.",
     "email": "smashbros54@gmail.com",
     "phone": "+233 501083601",
@@ -14,9 +14,8 @@
       "state": "Ghana"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
-    "social": [
-      {
+    "resumedownload": "https://docs.google.com/document/d/1xTfss3Y8GOaK-yI5QBXWvSsRMXG7CiN1HUKVneqiJ44/edit?usp=sharing",
+    "social": [{
         "name": "facebook",
         "url": "https://www.facebook.com/samikhae64",
         "className": "fa fa-facebook"
@@ -39,17 +38,20 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
-    "education": [
-      {
+    "skillmessage": "Here's my arsenal! ",
+    "education": [{
         "school": "Kwame Nkrumah University of Sciene & Technology",
         "degree": "Bachelors in Computer Science",
         "graduated": "June 2022",
-        "description": "Graduated with Distinction"
+        "description": "In Progress..."
+      },
+      {
+        "school": "Prempeh College",
+        "degree": "General Science",
+        "graduated": "July 2018"
       }
     ],
-    "work": [
-      {
+    "work": [{
         "company": "CUBE Robotics Limited",
         "title": "Co-Founder, Roboticist && Software Developer",
         "years": "Febuary 2019 - Present",
@@ -62,10 +64,9 @@
         "description": "Equipping the Ghanaian youth with Science Technology Engineering Arts & Mathematics skills (STEAM). I worked as a javascript tutor during the period I spent with TeachGhana. "
       }
     ],
-    "skills": [
-      {
+    "skills": [{
         "name": "Unity Game Development",
-        "level": "75%"
+        "level": "85%"
       },
       {
         "name": "Flutter",
@@ -77,7 +78,7 @@
       },
       {
         "name": "NodeJs",
-        "level": "85%"
+        "level": "80%"
       },
       {
         "name": "Git",
@@ -93,45 +94,25 @@
       },
       {
         "name": "MongoDB",
-        "level": "70%"
+        "level": "60%"
       }
     ]
   },
   "portfolio": {
-    "unityProjects": [
-      {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+    "unityProjects": [{
+        "title": "Space Shooter",
+        "category": "2D Space shooter built with Unity",
+        "image": "space-shooter.png",
+        "url": "https://space-shooter-s.web.app/"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
-      },
-      {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "Capstone Project",
+        "category": "Project built with Unity for the capstone project in a Coursera game development course I enrolled in.",
+        "image": "capstone.png",
+        "url": "https://man-for-capstone.web.app/"
       }
     ],
-    "reactProjects": [
-      {
+    "reactProjects": [{
         "title": "WhatsApp Clone",
         "category": "WhatsApp Clone built with ReactJS",
         "image": "whatsapp-clone.png",
