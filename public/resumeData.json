@@ -123,6 +123,12 @@
         "category": "Slack Clone built with ReactJS",
         "image": "slack-clone.png",
         "url": "https://slack-sami.web.app/"
+      },
+      {
+        "title": "Amazon Store Clone",
+        "category": "Amazon store clone built with Reactjs with complete stripe payments functionality",
+        "image": "store3.png",
+        "url": "https://store-clone-c12b6.web.app/"
       }
     ]
   },
