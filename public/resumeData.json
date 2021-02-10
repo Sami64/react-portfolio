@@ -15,7 +15,8 @@
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "https://docs.google.com/document/d/1xTfss3Y8GOaK-yI5QBXWvSsRMXG7CiN1HUKVneqiJ44/edit?usp=sharing",
-    "social": [{
+    "social": [
+      {
         "name": "facebook",
         "url": "https://www.facebook.com/samikhae64",
         "className": "fa fa-facebook"
@@ -39,7 +40,8 @@
   },
   "resume": {
     "skillmessage": "Here's my arsenal! ",
-    "education": [{
+    "education": [
+      {
         "school": "Kwame Nkrumah University of Sciene & Technology",
         "degree": "Bachelors in Computer Science",
         "graduated": "June 2022",
@@ -51,7 +53,8 @@
         "graduated": "July 2018"
       }
     ],
-    "work": [{
+    "work": [
+      {
         "company": "CUBE Robotics Limited",
         "title": "Co-Founder, Roboticist && Software Developer",
         "years": "Febuary 2019 - Present",
@@ -64,7 +67,8 @@
         "description": "Equipping the Ghanaian youth with Science Technology Engineering Arts & Mathematics skills (STEAM). I worked as a javascript tutor during the period I spent with TeachGhana. "
       }
     ],
-    "skills": [{
+    "skills": [
+      {
         "name": "Unity Game Development",
         "level": "85%"
       },
@@ -99,7 +103,8 @@
     ]
   },
   "portfolio": {
-    "unityProjects": [{
+    "unityProjects": [
+      {
         "title": "Space Shooter",
         "category": "2D Space shooter built with Unity",
         "image": "space-shooter.png",
@@ -112,7 +117,8 @@
         "url": "https://man-for-capstone.web.app/"
       }
     ],
-    "reactProjects": [{
+    "reactProjects": [
+      {
         "title": "WhatsApp Clone",
         "category": "WhatsApp Clone built with ReactJS",
         "image": "whatsapp-clone.png",
@@ -129,6 +135,12 @@
         "category": "Amazon store clone built with Reactjs with complete stripe payments functionality",
         "image": "store3.png",
         "url": "https://store-clone-c12b6.web.app/"
+      },
+      {
+        "title": " Netflix Clone",
+        "category": "Complete Netflix build with mock subscriptions feature & state management with Redux",
+        "image": "netflix.png",
+        "url": "https://netflix-sami.web.app/"
       }
     ]
   },
