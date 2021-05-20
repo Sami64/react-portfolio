@@ -141,6 +141,12 @@
         "category": "Complete Netflix build with mock subscriptions feature & state management with Redux",
         "image": "netflix.png",
         "url": "https://netflix-sami.web.app/"
+      },
+      {
+        "title": "Amazon Store 2.0",
+        "category": "amazon 2.0 with nextjs",
+        "image": "amazon2.png",
+        "url": "https://amazon-2-0-ten.vercel.app/"
       }
     ]
   },
