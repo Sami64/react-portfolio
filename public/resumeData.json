@@ -2,9 +2,9 @@
   "main": {
     "name": "Samuel Kow Paintsil",
     "occupation": "Flutter developer by day & Unity Game developer by night",
-    "description": "Mobile development's breakfast & Game development's my daily bread! && The Co-Founder of CUBE Robotics Limited",
+    "description": "Mobile development's breakfast & Game development's my daily bread! Highly motivated and relentless software engineer",
     "image": "sami.jpg",
-    "bio": "My name is Samuel, I'm the Co-Founder of CUBE Robotics Limited, a mobile && game developer. I'm an extreme robotics enthusiast, love playing basketball, listening to music and of course messing around with games!!. ",
+    "bio": "My name is Samuel, a mobile && game developer. I'm an extreme robotics enthusiast, love playing basketball, listening to music and of course messing around with games!!. ",
     "contactmessage": "Get in touch with me to receive further details.",
     "email": "smashbros54@gmail.com",
     "phone": "+233 501083601",
@@ -56,7 +56,7 @@
     "work": [
       {
         "company": "CUBE Robotics Limited",
-        "title": "Co-Founder, Roboticist && Software Developer",
+        "title": "Software Developer",
         "years": "Febuary 2019 - Present",
         "description": "Targetting teens & building up their robotics skills in diverse ways. CUBE Robotics Limited engages the Ghanaian youth through competitions after giving them required skills through carefully developed training plan"
       },
